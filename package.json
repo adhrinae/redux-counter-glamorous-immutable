@@ -1,0 +1,24 @@
+{
+  "name": "redux-counter-with-glamorous",
+  "description": "This redux coutner tutorial is created by @velopert\n\nhttps://www.gitbook.com/book/velopert/react-redux/details\n\nand I used 'glamorous' to make styled components instead of css files.",
+  "version": "0.0.90",
+  "dependencies": {
+    "redux": "3.7.2",
+    "react-redux": "5.0.6",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "prop-types": "15.6.0",
+    "immutable": "3.8.2",
+    "glamorous": "4.11.0",
+    "glamor": "2.20.40"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
